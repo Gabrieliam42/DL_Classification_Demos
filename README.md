@@ -1,3 +1,4 @@
+
 ## Deep Learning Classification tests
 * using softmax with cross-entropy setup (multi-class classification).
 * binary classification using a deep CNN with logistic (sigmoid) output 
@@ -46,6 +47,7 @@
 **Script Developer:** Gabriel Mihai Sandu  
 
 **GitHub Profile:** [https://github.com/Gabrieliam42](https://github.com/Gabrieliam42)
+
 
 
 
